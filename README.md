@@ -3,10 +3,12 @@
 
 💻 Ingeniero de Sistemas...
 <br>
-Analista de soporte de TI |
-Soporte al usuario | 
-Actitud organizacional | TI | 
-Sistemas de aprendizaje | 
+Analista de soporte de TI...
+<br>
+Soporte al usuario...
+<br>
+TI  
+<br>
 HTML | CSS 🚀
 
-<i class="fas fa-info-circle"></i>
+
