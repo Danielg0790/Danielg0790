@@ -1,4 +1,4 @@
-### Hi Soy Daniel Gonzalez 👋
+<center>### Hi Soy Daniel Gonzalez 👋</center>
 
 
 💻 Ingeniero de Sistemas...
