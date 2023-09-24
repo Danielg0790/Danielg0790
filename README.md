@@ -1,4 +1,4 @@
-### Hi Soy Daniel Gonzalez 👋
+<H2> ### Hi Soy Daniel Gonzalez 👋##### </H2>
 
 
 💻 Ingeniero de Sistemas...
@@ -10,6 +10,8 @@
 📲 TI  
 <br>
 
+
+<H2> Technology Learning </H2>
 
 
 
