@@ -9,6 +9,6 @@
 <br>
 📲 TI  
 <br>
-
+<H2> I am a Computer Systems Engineer 💻 focused on IT infrastructure, and learning development tools 🎙️! </H2>
 
 
