@@ -1,4 +1,4 @@
-<H2> ### Hi Soy Daniel Gonzalez 👋##### </H2>
+<H2> ### Hi Soy Daniel Gonzalez ✨ ##### </H2>
 
 
 💻 Ingeniero de Sistemas...
@@ -9,6 +9,6 @@
 <br>
 📲 TI  
 <br>
-<H2> I am a Computer Systems Engineer 💻 focused on IT infrastructure, and continuous learning in development tools 🎙️! </H2>
+<H2> ¡ingeniero de sistemas de Informática 💻 enfocado en infraestructura TI, y aprendizaje continuo de herramientas de desarrollo  </H2>
 
 
