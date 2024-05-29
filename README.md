@@ -18,8 +18,6 @@
 <br>
 <br>
 
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="45" style="max-width: 100%;">   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="45" style="max-width: 100%;"> 
- 
 
 </center> </H2>
 
